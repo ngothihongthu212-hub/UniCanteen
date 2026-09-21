@@ -1,0 +1,6 @@
+{
+  "name": "UniCanteen — Quản lý & Đặt món Canteen Sinh viên",
+  "description": "Nền tảng tìm kiếm món ăn, đặt trước theo khung giờ, thanh toán ví sinh viên và quản lý quầy ăn Canteen thông minh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
